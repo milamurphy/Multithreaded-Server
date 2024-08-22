@@ -47,8 +47,8 @@ This java application implements a database-driven client-server system with var
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/milamurphy/Multithreaded-Server.git
-   cd Multithreaded-Server
+   git clone https://github.com/milamurphy/ProSearch.git
+   cd ProSearch
    ```
 
 2. **Set up MySQL Database:**
