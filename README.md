@@ -1,6 +1,6 @@
-# Multithreaded Server
+# ProSearch
 
-This application is written in Java and implements a database-driven client-server system with various features including data access, JSON communication, and multithreading.
+This java application implements a database-driven client-server system with various features including data access, JSON communication, and multithreading. It allows users to perform various CRUD actions on a database of users.
 
 ## Objectives
 
