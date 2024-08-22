@@ -1,6 +1,6 @@
 # Multithreaded Server
 
-**This application is written in Java and implements a database-driven client-server system with various features including data access, JSON communication, and multithreading.
+This application is written in Java and implements a database-driven client-server system with various features including data access, JSON communication, and multithreading.
 
 ## Objectives
 
