@@ -1,6 +1,6 @@
-# Multi-User Client-Server Application (OOP CA5)
+# Multithreaded Server
 
-**Multi-User Client-Server Application** is a project developed for the Object-Oriented Programming module. This application implements a database-driven client-server system with various features including data access, JSON communication, and multithreading.
+**This application is written in Java and implements a database-driven client-server system with various features including data access, JSON communication, and multithreading.
 
 ## Objectives
 
@@ -47,8 +47,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Roman-Manzhelii/Multi-User-Client-Server-Application.git
-   cd Multi-User-Client-Server-Application
+   git clone https://github.com/milamurphy/Multithreaded-Server.git
+   cd Multithreaded-Server
    ```
 
 2. **Set up MySQL Database:**
@@ -75,12 +75,8 @@
 
    
 ## Contributors
-
+- [Mila Murphy](https://github.com/milamurphy)
 - [Roman Manzhelii](https://github.com/Roman-Manzhelii)
-- [Mila](https://github.com/milamurphy)
-- [Elga J Henry](https://github.com/henryelga)
+- [Elga Henry](https://github.com/henryelga)
 
-## Contact
-
-For more information or questions, please contact: romanmanzheliy1@gmail.com
 
